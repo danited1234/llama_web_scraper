@@ -11,4 +11,5 @@ ollama pull llama3.2
 ```bash
 streamlit run AI Scraper.py
 ```
-
+## Have Fun
+![Sample Image](image/sample.jpeg)
